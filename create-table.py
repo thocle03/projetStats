@@ -118,7 +118,7 @@ create_json_queries(directory)
 
 # Connexion à la base de données et traitement des données
 connection = connect_to_db()
-create_database_if_not_exists(connection, 'statsdb11')
+create_database_if_not_exists(connection, 'statsdb13')
 
 # Création des tables en utilisant le fichier JSON généré
 create_tables_from_json('create_tables.json', connection)
