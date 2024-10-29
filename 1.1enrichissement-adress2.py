@@ -4,7 +4,7 @@ import re
 from unidecode import unidecode
 
 # Connexion à la base de données MySQL
-engine = create_engine("mysql+pymysql://root@localhost:3306/statsdb13")
+engine = create_engine("mysql+pymysql://root@localhost:3306/statsdb17")
 
 def EG_Insee_Iris(
     table_entree,
@@ -153,7 +153,7 @@ enriched_table = EG_Insee_Iris(
     ville="ville",
     id_client="id_client",
     lieu_dit="lieu_dit",
-    civilite="civilit_",
+    civilite="civilite",
     nom="nom",
     prenom="prenom",
 )
@@ -166,4 +166,4 @@ print(f"Fichier '{csv_file}' généré avec succès.")
 # Créer une nouvelle table et insérer les données dans la base de données
 table_name = "enriched_clients"
 enriched_table.to_sql(table_name, con=engine, if_exists='replace', index=False)
-print(f"Table '{table_name}' créée et données insérées avec succès dans la base de données 'statsdb13'.")
+print(f"Table '{table_name}' créée et données insérées avec succès dans la base de données 'statsdb17'.")
