@@ -3,8 +3,8 @@ from sqlalchemy import create_engine
 import re
 from unidecode import unidecode
 
+# Connexion à la base de données MySQL
 engine = create_engine("mysql+pymysql://root@localhost:3306/statsdb13")
-
 
 def EG_Insee_Iris(
     table_entree,
@@ -23,10 +23,9 @@ def EG_Insee_Iris(
     email=None,
     tel=None,
 ):
-
     refCP_df = pd.read_sql_table("refcp", con=engine)
     ref_IRIS_geo2024_df = pd.read_sql_table("ref_iris_geo2024", con=engine)
-
+    
     # Helper function to normalize column names
     def normalize_column_name(col_name):
         if col_name is None:
@@ -37,7 +36,6 @@ def EG_Insee_Iris(
 
     # Prepare DataFrame and handle top_TNP logic
     enriched_df = table_entree.copy()
-
     if top_TNP == 1:
         # Split the 'nom' column into gender, first name, and surname
         split_names = enriched_df[nom].str.split(expand=True)
@@ -145,11 +143,9 @@ def EG_Insee_Iris(
             "lib_iris_normalized",
         ]
     )
-
     return enriched_df
 
-
-# Example usage
+# Exemple d'utilisation
 enriched_table = EG_Insee_Iris(
     table_entree=pd.read_sql_table("true_table_entree", con=engine),
     top_TNP=0,
@@ -162,4 +158,12 @@ enriched_table = EG_Insee_Iris(
     prenom="prenom",
 )
 
-print(enriched_table)
+# Enregistrer les résultats dans un fichier CSV
+csv_file = "enriched_clients.csv"
+enriched_table.to_csv(csv_file, index=False, encoding="utf-8")
+print(f"Fichier '{csv_file}' généré avec succès.")
+
+# Créer une nouvelle table et insérer les données dans la base de données
+table_name = "enriched_clients"
+enriched_table.to_sql(table_name, con=engine, if_exists='replace', index=False)
+print(f"Table '{table_name}' créée et données insérées avec succès dans la base de données 'statsdb13'.")
