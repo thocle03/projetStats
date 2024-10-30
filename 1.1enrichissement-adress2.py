@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 import re
 from unidecode import unidecode
 
-engine = create_engine("mysql+pymysql://root@localhost:3306/statsdb18")
+engine = create_engine("mysql+pymysql://root@localhost:3306/statsdb21")
 
 def EG_Insee_Iris(
     table_entree,
@@ -150,4 +150,4 @@ print(f"Fichier '{csv_file}' généré avec succès.")
 
 table_name = "enriched_clients"
 enriched_table.to_sql(table_name, con=engine, if_exists='replace', index=False)
-print(f"Table '{table_name}' créée et données insérées avec succès dans la base de données 'statsdb18'.")
+print(f"Table '{table_name}' créée et données insérées avec succès dans la base de données 'statsdb21'.")

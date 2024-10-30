@@ -105,7 +105,7 @@ directory = os.path.join(os.getcwd(), 'data')
 create_json_queries(directory)
 
 connection = connect_to_db()
-create_database_if_not_exists(connection, 'statsdb18')
+create_database_if_not_exists(connection, 'statsdb21')
 
 create_tables_from_json('create_tables.json', connection)
 

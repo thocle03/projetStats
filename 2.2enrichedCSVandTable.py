@@ -3,7 +3,7 @@ import xlsxwriter
 from sqlalchemy import create_engine
 import random
 
-engine = create_engine("mysql+pymysql://root@localhost:3306/statsdb18")
+engine = create_engine("mysql+pymysql://root@localhost:3306/statsdb21")
 df = pd.read_sql_table("age_sexe_results", con=engine)
 output_file = 'age_sexe_with_charts.xlsx'
 writer = pd.ExcelWriter(output_file, engine='xlsxwriter')

@@ -3,11 +3,11 @@ import xlsxwriter
 from sqlalchemy import create_engine
 import random
 
-engine = create_engine("mysql+pymysql://root@localhost:3306/statsdb18")
+engine = create_engine("mysql+pymysql://root@localhost:3306/statsdb21")
 
 df = pd.read_sql_table("enriched_clients", con=engine)
 
-output_file = 'enriched_clients_with_charts.xlsx'  
+output_file = 'enriched_clients_with_charts1.xlsx'  
 writer = pd.ExcelWriter(output_file, engine='xlsxwriter')
 workbook = writer.book
 

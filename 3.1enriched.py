@@ -1,7 +1,7 @@
 import pandas as pd
 from sqlalchemy import create_engine
 
-engine = create_engine("mysql+pymysql://root@localhost:3306/statsdb18")
+engine = create_engine("mysql+pymysql://root@localhost:3306/statsdb21")
 
 enriched_clients = pd.read_sql_table("enriched_clients", con=engine)
 

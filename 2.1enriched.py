@@ -4,7 +4,7 @@ from sqlalchemy import create_engine
 from unidecode import unidecode
 
 # Connexion à la base de données
-engine = create_engine("mysql+pymysql://root@localhost:3306/statsdb18")
+engine = create_engine("mysql+pymysql://root@localhost:3306/statsdb21")
 
 def EG_age_sexe(tb_client, prenom, sexe="NA", age_declare="NA", top_estim_sexe=1, codgeo="codgeo", ajust=0, var_ajust="NA"):
     required_columns = [prenom]
@@ -156,4 +156,4 @@ print(f"Fichier '{csv_file}' généré avec succès.")
 
 table_name = "age_sexe_results"
 resultat.to_sql(table_name, con=engine, if_exists='replace', index=False)
-print(f"Table '{table_name}' créée et données insérées avec succès dans la base de données 'statsdb18'.")
+print(f"Table '{table_name}' créée et données insérées avec succès dans la base de données 'statsdb21'.")
