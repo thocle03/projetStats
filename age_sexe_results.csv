@@ -1,0 +1,1001 @@
+e_annee_naissance,e_p_5ans,indice_conf_age,e_top_age_ok,e_age,e_sexe,c_insee,c_iris,c_qualite_iris,civilite,codgeo,complement_adrs,complement_nom,cp,e_age_geo,e_age_prenom,id,pays,prenom,sexe,ville
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"43, rue Maréchal",,72000,,60.5,1,France,Léon,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"32, rue Charlotte Dos Santos",,49000,,60.5,2,France,Roger,NA,Angers
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,SA,13001,,60.5,3,France,Joséphine,NA,Marseille
+1994,0.9,Confiance,2,29.6,M,,,,Mme,,"1, chemin de Rossi",,74000,,29.6,4,France,Margaux,NA,Annecy
+1969,0.9,Confiance,2,54.74444444444445,M,,,,Mme,,,et Fils,80000,,54.74444444444445,5,France,Astrid,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,29200,,60.5,6,France,Juliette,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"723, chemin de Lecomte",,13001,,60.5,7,France,Alain,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,51100,,60.5,8,France,Grégoire,NA,Reims
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,63000,,60.5,9,France,Georges,NA,Clermont-Ferrand
+1969,0.9,Confiance,2,54.74444444444445,M,,,,Mme,,,,33000,,54.74444444444445,10,France,Astrid,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"64, chemin de Colas",SARL,38000,,60.5,11,France,Michèle,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,44000,,60.5,12,France,Alain,NA,Nantes
+1965,0.9,Confiance,2,59.04040404040404,M,,,,Mme,,"8, rue de Fournier",SA,37000,,59.04040404040404,13,France,Maryse,NA,Tours
+2024,0.9,Confiance -,3,,M,,,,Mme,,avenue de Prévost,S.A.,69001,,,14,France,Nath,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,59000,,60.5,15,France,Alexandre,NA,Lille
+1987,0.9,Confiance,2,37.22,M,,,,Mme,,,,80000,,37.22,16,France,Océane,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"77, rue Humbert",,83000,,60.5,17,France,Adrienne,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,25000,,60.5,18,France,Jacques,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.S.,76600,,60.5,19,France,Emmanuel,NA,Le Havre
+1958,0.9,Confiance,2,65.91208791208791,M,,,,Mme,,,,44000,,65.91208791208791,20,France,Renée,NA,Nantes
+1974,0.9,Confiance,2,49.76923076923077,M,,,,M.,,,,87000,,49.76923076923077,21,France,Thibault,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,SARL,25000,,60.5,22,France,Frédéric,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,66000,,60.5,23,France,Paul,NA,Perpignan
+2024,0.9,Confiance -,3,,M,,,,Mme,,,,87000,,,24,France,Olivie,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"90, avenue Rocher",,35000,,60.5,25,France,Pierre,NA,Rennes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,38000,,60.5,26,France,Yves,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"192, boulevard Picard",,57000,,60.5,27,France,Jeanne,NA,Metz
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,S.A.S.,25000,,60.5,28,France,Joséphine,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"57, chemin Cordier",,72000,,60.5,29,France,Raymond,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,44000,,60.5,30,France,Christophe,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"651, boulevard Chevallier",,49000,,60.5,31,France,Laure,NA,Angers
+1958,0.9,Confiance,2,66.33333333333333,M,,,,Mme,,,S.A.R.L.,42000,,66.33333333333333,32,France,Marcelle,NA,Saint-Étienne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,21000,,60.5,33,France,Gilles,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,35000,,60.5,34,France,Marianne,NA,Rennes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,13001,,60.5,35,France,Nathalie,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,33000,,60.5,36,France,Bertrand,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,49000,,60.5,37,France,Olivier,NA,Angers
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,35000,,60.5,38,France,Gabriel,NA,Rennes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,29200,,60.5,39,France,Émile,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,67000,,60.5,40,France,Augustin,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,M.,,avenue de Labbé,S.A.S.,57000,,60.5,41,France,Gérard,NA,Metz
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,21000,,60.5,42,France,Michel,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,66000,,60.5,43,France,Emmanuelle,NA,Perpignan
+1963,0.9,Confiance,2,60.86,M,,,,Mme,,,S.A.S.,63000,,60.86,44,France,Anastasie,NA,Clermont-Ferrand
+1958,0.9,Confiance,2,65.94505494505495,M,,,,Mme,,,,21000,,65.94505494505495,45,France,Jeannine,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,87000,,60.5,46,France,Roger,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,SARL,31000,,60.5,47,France,Laure,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,S.A.,13001,,60.5,48,France,Jacqueline,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"34, boulevard de Dijoux",,30000,,60.5,49,France,Bernard,NA,Nîmes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,72000,,60.5,50,France,Marthe,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,63000,,60.5,51,France,Céline,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,SARL,13001,,60.5,52,France,Yves,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,rue Prévost,SARL,13100,,60.5,53,France,Alice,NA,Aix-en-Provence
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,13100,,60.5,54,France,Éric,NA,Aix-en-Provence
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,37000,,60.5,55,France,Hélène,NA,Tours
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,74000,,60.5,56,France,Jacques,NA,Annecy
+1966,0.9,Confiance,2,57.864583333333336,M,,,,Mme,,"74, boulevard Cordier",,75001,,57.864583333333336,57,France,Corinne,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,69001,,60.5,58,France,David,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"177, avenue Diane Gillet",,87000,,60.5,59,France,Emmanuel,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.R.L.,37000,,60.5,60,France,Gabriel,NA,Tours
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,59000,,60.5,61,France,Denis,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,59000,,60.5,62,France,Jérôme,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,59000,,60.5,63,France,Bertrand,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"461, rue de Pinto",S.A.R.L.,87000,,60.5,64,France,Valérie,NA,Limoges
+1947,0.9,Confiance,2,77.47368421052632,M,,,,Mme,,,,51100,,77.47368421052632,65,France,Luce,NA,Reims
+1947,0.9,Confiance,2,77.47368421052632,M,,,,Mme,,,,34000,,77.47368421052632,66,France,Luce,NA,Montpellier
+1966,0.9,Confiance,2,57.864583333333336,M,,,,Mme,,"73, rue Michelle Godard",,25000,,57.864583333333336,67,France,Corinne,NA,Besançon
+1974,0.9,Confiance,2,49.76923076923077,M,,,,M.,,"500, avenue Guilbert",S.A.S.,59000,,49.76923076923077,68,France,Thibault,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,6000,,60.5,69,France,Thomas,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,63000,,60.5,70,France,Denise,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,34000,,60.5,71,France,Paul,NA,Montpellier
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"99, rue de Laine",SARL,69001,,60.5,72,France,Roland,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,42000,,60.5,73,France,Pierre,NA,Saint-Étienne
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,34000,,60.5,74,France,Aurore,NA,Montpellier
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,44000,,60.5,75,France,Claude,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,51100,,60.5,76,France,Gérard,NA,Reims
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"410, boulevard de Étienne",,42000,,60.5,77,France,Sylvie,NA,Saint-Étienne
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,66000,,60.5,78,France,Brigitte,NA,Perpignan
+1974,0.9,Confiance,2,50.46153846153846,M,,,,Mme,,"138, chemin Petit",,21000,,50.46153846153846,79,France,Arnaude,NA,Dijon
+1962,0.9,Confiance,2,61.56521739130435,M,,,,Mme,,,et Fils,57000,,61.56521739130435,80,France,Zoé,NA,Metz
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,72000,,60.5,81,France,Roger,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"3, rue Bertin",,74000,,60.5,82,France,Amélie,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,13100,,60.5,83,France,Olivier,NA,Aix-en-Provence
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,31000,,60.5,84,France,Sébastien,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"13, avenue de Lecomte",,31000,,60.5,85,France,Véronique,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,80000,,60.5,86,France,Pauline,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,87000,,60.5,87,France,Élise,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,6000,,60.5,88,France,Émilie,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,33000,,60.5,89,France,Guillaume,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,87000,,60.5,90,France,Édith,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"5, rue Petit",,83000,,60.5,91,France,Madeleine,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,66000,,60.5,92,France,Alix,NA,Perpignan
+1964,0.9,Confiance,2,59.52,M,,,,M.,,,,30000,,59.52,93,France,Thierry,NA,Nîmes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,76600,,60.5,94,France,Émile,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,M.,,chemin Inès Bousquet,,69100,,60.5,95,France,Antoine,NA,Villeurbanne
+1965,0.9,Confiance,2,58.689655172413794,M,,,,M.,,"42, chemin de Bourgeois",,29200,,58.689655172413794,96,France,Zacharie,NA,Brest
+1964,0.9,Confiance,2,59.97894736842105,M,,,,Mme,,,,76600,,59.97894736842105,97,France,Lucy,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,69100,,60.5,98,France,Augustin,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,21000,,60.5,99,France,Constance,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,33000,,60.5,100,France,Henriette,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,13001,,60.5,101,France,Constance,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,rue Moreau,,59000,,60.5,102,France,Inès,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,13001,,60.5,103,France,Auguste,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"28, avenue Emmanuel Foucher",,83000,,60.5,104,France,Bertrand,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,21000,,60.5,105,France,Adèle,NA,Dijon
+1964,0.9,Confiance,2,60.257425742574256,M,,,,Mme,,,S.A.,37000,,60.257425742574256,106,France,Lorraine,NA,Tours
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,S.A.R.L.,13100,,60.5,107,France,Nathalie,NA,Aix-en-Provence
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,72000,,60.5,108,France,Noël,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,59000,,60.5,109,France,Virginie,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"111, avenue Bonnet",S.A.R.L.,30000,,60.5,110,France,Robert,NA,Nîmes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,rue de Lelièvre,,69100,,60.5,111,France,Guillaume,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"24, rue Timothée Rey",,83000,,60.5,112,France,Lucie,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"60, rue Rey",SA,69100,,60.5,113,France,Aimé,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,42000,,60.5,114,France,Benoît,NA,Saint-Étienne
+1965,0.9,Confiance,2,59.313131313131315,M,,,,Mme,,"153, rue de Dijoux",,30000,,59.313131313131315,115,France,Manon,NA,Nîmes
+1966,0.9,Confiance,2,58.291666666666664,M,,,,M.,,"5, rue Thérèse Lefèvre",,13001,,58.291666666666664,116,France,Lucas,NA,Marseille
+2024,0.9,Confiance -,3,,F,,,,Mme,,,,74000,,,117,France,Alexandria,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.R.L.,33000,,60.5,118,France,Jean,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"56, rue de Lebreton",,87000,,60.5,119,France,Geneviève,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,M.,,rue Henri Chevallier,,69100,,60.5,120,France,William,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,80000,,60.5,121,France,Noël,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"7, rue Timothée Legendre",,69100,,60.5,122,France,William,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,38000,,60.5,123,France,Dominique,NA,Grenoble
+1964,0.9,Confiance,2,60.01980198019802,M,,,,M.,,,S.A.S.,51100,,60.01980198019802,124,France,Patrick,NA,Reims
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,SARL,44000,,60.5,125,France,Emmanuel,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,51100,,60.5,126,France,Mathilde,NA,Reims
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"21, chemin de Brun",,66000,,60.5,127,France,Suzanne,NA,Perpignan
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,49000,,60.5,128,France,René,NA,Angers
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"93, boulevard de Gros",,38000,,60.5,129,France,Alix,NA,Grenoble
+2000,0.9,Confiance,2,24.5,M,,,,Mme,,,S.A.,42000,,24.5,130,France,Margaud,NA,Saint-Étienne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"35, rue Lemaire",,72000,,60.5,131,France,Martin,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,rue Mendès,et Fils,25000,,60.5,132,France,Agathe,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"288, chemin Bigot",,29200,,60.5,133,France,Marine,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,6000,,60.5,134,France,Gilles,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,44000,,60.5,135,France,Nicolas,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,SARL,35000,,60.5,136,France,Édouard,NA,Rennes
+1965,0.9,Confiance,2,58.689655172413794,M,,,,M.,,,,72000,,58.689655172413794,137,France,Zacharie,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,69001,,60.5,138,France,Amélie,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,69100,,60.5,139,France,Sylvie,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,63000,,60.5,140,France,Jacques,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"67, avenue Julie Simon",,49000,,60.5,141,France,Adrienne,NA,Angers
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,31000,,60.5,142,France,Marthe,NA,Toulouse
+1974,0.9,Confiance,2,50.46153846153846,M,,,,Mme,,,,29200,,50.46153846153846,143,France,Arnaude,NA,Brest
+1983,0.9,Confiance,2,40.557377049180324,M,,,,Mme,,"97, rue Weiss",,74000,,40.557377049180324,144,France,Capucine,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"13, rue de Bernard",,13001,,60.5,145,France,David,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"47, boulevard Collet",,80000,,60.5,146,France,Suzanne,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,S.A.R.L.,6000,,60.5,147,France,Claude,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,38000,,60.5,148,France,Vincent,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"3, boulevard Victoire Martel",SARL,25000,,60.5,149,France,Sylvie,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,66000,,60.5,150,France,René,NA,Perpignan
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,31000,,60.5,151,France,Danielle,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,83000,,60.5,152,France,Aurélie,NA,Toulon
+1947,0.9,Confiance,2,77.47368421052632,M,,,,Mme,,,SA,75001,,77.47368421052632,153,France,Luce,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,69100,,60.5,154,France,Henriette,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,29200,,60.5,155,France,Augustin,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,87000,,60.5,156,France,Eugène,NA,Limoges
+1957,0.9,Confiance,2,66.8314606741573,M,,,,Mme,,,,25000,,66.8314606741573,157,France,Paulette,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,72000,,60.5,158,France,Agnès,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,66000,,60.5,159,France,Gabrielle,NA,Perpignan
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.,74000,,60.5,160,France,Alphonse,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,SARL,34000,,60.5,161,France,David,NA,Montpellier
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,S.A.R.L.,63000,,60.5,162,France,Michelle,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,13001,,60.5,163,France,Alice,NA,Marseille
+1965,0.9,Confiance,2,58.77173913043478,M,,,,Mme,,,,25000,,58.77173913043478,164,France,Noémi,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,34000,,60.5,165,France,Honoré,NA,Montpellier
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,30000,,60.5,166,France,Élise,NA,Nîmes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,25000,,60.5,167,France,Marguerite,NA,Besançon
+1958,0.9,Confiance,2,65.94252873563218,M,,,,Mme,,,,66000,,65.94252873563218,168,France,Margaret,NA,Perpignan
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"47, rue Carre",,74000,,60.5,169,France,Isabelle,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,76600,,60.5,170,France,Nicolas,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,49000,,60.5,171,France,Nicolas,NA,Angers
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,6000,,60.5,172,France,Laurent,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,SARL,83000,,60.5,173,France,Philippe,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,69001,,60.5,174,France,Adrien,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"458, chemin Coste",,35000,,60.5,175,France,Adélaïde,NA,Rennes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,72000,,60.5,176,France,Roger,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,76600,,60.5,177,France,Juliette,NA,Le Havre
+1965,0.9,Confiance,2,58.689655172413794,M,,,,M.,,,S.A.,75001,,58.689655172413794,178,France,Zacharie,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"24, rue Frédéric Lopes",SA,51100,,60.5,179,France,Jules,NA,Reims
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,69100,,60.5,180,France,Camille,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,34000,,60.5,181,France,Olivier,NA,Montpellier
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,SA,42000,,60.5,182,France,Françoise,NA,Saint-Étienne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.S.,31000,,60.5,183,France,Christophe,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"69, rue de Bertin",,76600,,60.5,184,France,Michèle,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,SARL,21000,,60.5,185,France,Aurore,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,49000,,60.5,186,France,Frédéric,NA,Angers
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,SA,75001,,60.5,187,France,Théodore,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,6000,,60.5,188,France,Mathilde,NA,Nice
+1977,0.9,Confiance,2,46.84285714285714,M,,,,Mme,,boulevard Cousin,,35000,,46.84285714285714,189,France,Pénélope,NA,Rennes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"1, boulevard Claire Thibault",,25000,,60.5,190,France,Pierre,NA,Besançon
+1987,0.9,Confiance,2,37.22,M,,,,Mme,,"782, boulevard de Renaud",,72000,,37.22,191,France,Océane,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,76600,,60.5,192,France,Jacqueline,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,63000,,60.5,193,France,Inès,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,SARL,13001,,60.5,194,France,Philippine,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,S.A.,75001,,60.5,195,France,Jeanne,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,75001,,60.5,196,France,François,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,21000,,60.5,197,France,Diane,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,30000,,60.5,198,France,Catherine,NA,Nîmes
+1975,0.9,Confiance,2,48.7,M,,,,Mme,,,,63000,,48.7,199,France,Maggie,NA,Clermont-Ferrand
+2024,0.9,Confiance -,3,,M,,,,Mme,,"789, rue Joseph Gimenez",,37000,,,200,France,Olivie,NA,Tours
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,S.A.,63000,,60.5,201,France,Gabrielle,NA,Clermont-Ferrand
+1963,0.9,Confiance,2,60.60606060606061,M,,,,Mme,,,,69001,,60.60606060606061,202,France,Margot,NA,Lyon
+1963,0.9,Confiance,2,60.86,M,,,,Mme,,,S.A.,42000,,60.86,203,France,Anastasie,NA,Saint-Étienne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,avenue Susanne Vallée,S.A.R.L.,31000,,60.5,204,France,Augustin,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,6000,,60.5,205,France,Agathe,NA,Nice
+1981,0.9,Confiance,2,43.0,M,,,,Mme,,"34, boulevard de Seguin",,76600,,43.0,206,France,Anouk,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,51100,,60.5,207,France,Benoît,NA,Reims
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,38000,,60.5,208,France,Anaïs,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,76600,,60.5,209,France,Christiane,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,21000,,60.5,210,France,Gilbert,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,SA,13001,,60.5,211,France,Henriette,NA,Marseille
+1958,0.9,Confiance,2,65.91208791208791,M,,,,Mme,,"99, rue Michel",,33000,,65.91208791208791,212,France,Renée,NA,Bordeaux
+1984,0.9,Confiance,2,39.81818181818182,M,,,,M.,,,,83000,,39.81818181818182,213,France,Timothée,NA,Toulon
+1962,0.9,Confiance,2,61.56521739130435,M,,,,Mme,,,S.A.S.,6000,,61.56521739130435,214,France,Zoé,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,83000,,60.5,215,France,Édouard,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"7, boulevard Schneider",,42000,,60.5,216,France,Roger,NA,Saint-Étienne
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,37000,,60.5,217,France,Michelle,NA,Tours
+1965,0.9,Confiance,2,59.04040404040404,M,,,,Mme,,"93, chemin Zacharie Camus",S.A.S.,38000,,59.04040404040404,218,France,Maryse,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"58, rue Élise Maurice",,75001,,60.5,219,France,Élise,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,69100,,60.5,220,France,Léon,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,S.A.R.L.,21000,,60.5,221,France,Stéphanie,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,35000,,60.5,222,France,Christiane,NA,Rennes
+1964,0.9,Confiance,2,60.23,M,,,,M.,,,,34000,,60.23,223,France,Isaac,NA,Montpellier
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.,38000,,60.5,224,France,David,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,51100,,60.5,225,France,Thomas,NA,Reims
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,SA,76600,,60.5,226,France,Georges,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"7, rue Carlier",et Fils,69001,,60.5,227,France,Gilles,NA,Lyon
+1962,0.9,Confiance,2,61.5,M,,,,Mme,,rue de Ramos,,69001,,61.5,228,France,Susanne,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,33000,,60.5,229,France,Véronique,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,76600,,60.5,230,France,Sylvie,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,S.A.R.L.,21000,,60.5,231,France,Chantal,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,et Fils,29200,,60.5,232,France,Camille,NA,Brest
+1957,0.9,Confiance,2,66.87640449438203,M,,,,Mme,,"417, rue Bouvier",,59000,,66.87640449438203,233,France,Josette,NA,Lille
+1965,0.9,Confiance,2,59.313131313131315,M,,,,Mme,,,,59000,,59.313131313131315,234,France,Manon,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,S.A.R.L.,57000,,60.5,235,France,Emmanuelle,NA,Metz
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,76600,,60.5,236,France,Henriette,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"80, rue de Barre",,38000,,60.5,237,France,Eugène,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,72000,,60.5,238,France,Nicole,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"8, avenue Tanguy",,51100,,60.5,239,France,David,NA,Reims
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,SARL,80000,,60.5,240,France,Aimé,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,rue de Traore,,63000,,60.5,241,France,Sophie,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"7, rue de Hoareau",S.A.S.,67000,,60.5,242,France,Anaïs,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,SA,31000,,60.5,243,France,William,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,13100,,60.5,244,France,Caroline,NA,Aix-en-Provence
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.S.,49000,,60.5,245,France,Alain,NA,Angers
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,13100,,60.5,246,France,Diane,NA,Aix-en-Provence
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,38000,,60.5,247,France,Emmanuelle,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"6, rue Albert",,57000,,60.5,248,France,Christine,NA,Metz
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,69001,,60.5,249,France,Adèle,NA,Lyon
+1960,0.9,Confiance,2,64.5,M,,,,Mme,,,,42000,,64.5,250,France,Odette,NA,Saint-Étienne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"370, rue de Renard",,6000,,60.5,251,France,Laurent,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,42000,,60.5,252,France,Martine,NA,Saint-Étienne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,51100,,60.5,253,France,Léon,NA,Reims
+1964,0.9,Confiance,2,59.52,M,,,,M.,,,,31000,,59.52,254,France,Thierry,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"32, rue de Guillet",,74000,,60.5,255,France,Anne,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,boulevard de Noël,et Fils,66000,,60.5,256,France,Inès,NA,Perpignan
+1983,0.9,Confiance,2,40.557377049180324,M,,,,Mme,,,,13100,,40.557377049180324,257,France,Capucine,NA,Aix-en-Provence
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,76600,,60.5,258,France,Camille,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,57000,,60.5,259,France,Chantal,NA,Metz
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,74000,,60.5,260,France,Charles,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,25000,,60.5,261,France,Sébastien,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,13001,,60.5,262,France,Aimée,NA,Marseille
+1974,0.9,Confiance,2,49.76923076923077,M,,,,M.,,,,13100,,49.76923076923077,263,France,Thibault,NA,Aix-en-Provence
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,13001,,60.5,264,France,Marcel,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,29200,,60.5,265,France,Agnès,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,75001,,60.5,266,France,Hugues,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"11, chemin Marcelle Bègue",,6000,,60.5,267,France,Suzanne,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,34000,,60.5,268,France,Pauline,NA,Montpellier
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"6, rue François Blin",,66000,,60.5,269,France,Michelle,NA,Perpignan
+1966,0.9,Confiance,2,57.864583333333336,M,,,,Mme,,,,31000,,57.864583333333336,270,France,Corinne,NA,Toulouse
+1963,0.9,Confiance,2,60.60606060606061,M,,,,Mme,,boulevard Bernadette Andre,SARL,6000,,60.60606060606061,271,France,Margot,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,63000,,60.5,272,France,Diane,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"66, boulevard de Clerc",,59000,,60.5,273,France,Brigitte,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"42, boulevard Anne Vasseur",SARL,33000,,60.5,274,France,Théophile,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"34, boulevard Jacquot",,76600,,60.5,275,France,Émilie,NA,Le Havre
+1963,0.9,Confiance,2,60.60606060606061,M,,,,Mme,,,,51100,,60.60606060606061,276,France,Margot,NA,Reims
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,34000,,60.5,277,France,Benjamin,NA,Montpellier
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,67000,,60.5,278,France,Pauline,NA,Strasbourg
+1966,0.9,Confiance,2,57.927083333333336,M,,,,M.,,,,29200,,57.927083333333336,279,France,Tristan,NA,Brest
+1964,0.9,Confiance,2,59.52,M,,,,M.,,,,30000,,59.52,280,France,Thierry,NA,Nîmes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,13100,,60.5,281,France,Claire,NA,Aix-en-Provence
+1994,0.9,Confiance,2,29.6,M,,,,Mme,,"92, boulevard Antoine Maillard",,69100,,29.6,282,France,Margaux,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,SARL,72000,,60.5,283,France,Camille,NA,Le Mans
+1980,0.9,Confiance,2,44.43283582089552,M,,,,M.,,,SA,6000,,44.43283582089552,284,France,Matthieu,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"263, avenue Adélaïde Gallet",,31000,,60.5,285,France,Monique,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,72000,,60.5,286,France,Adèle,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"516, rue Robert",,35000,,60.5,287,France,Roger,NA,Rennes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,66000,,60.5,288,France,Emmanuelle,NA,Perpignan
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,83000,,60.5,289,France,Brigitte,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,S.A.R.L.,69100,,60.5,290,France,Michelle,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"96, rue Hoareau",,25000,,60.5,291,France,Bernard,NA,Besançon
+1957,0.9,Confiance,2,66.8314606741573,M,,,,Mme,,,,29200,,66.8314606741573,292,France,Paulette,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,M.,,rue Bourgeois,,29200,,60.5,293,France,Nicolas,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,74000,,60.5,294,France,Sébastien,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,44000,,60.5,295,France,Franck,NA,Nantes
+1965,0.9,Confiance,2,58.53061224489796,F,,,,Mme,,"55, boulevard de Paul",,25000,,58.53061224489796,296,France,Patricia,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"80, chemin Gilles Joseph",,59000,,60.5,297,France,François,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.,38000,,60.5,298,France,Xavier,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,72000,,60.5,299,France,Juliette,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"92, rue Caroline Guillot",,59000,,60.5,300,France,Emmanuel,NA,Lille
+1977,0.9,Confiance,2,47.338235294117645,M,,,,Mme,,,,13100,,47.338235294117645,301,France,Susan,NA,Aix-en-Provence
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"200, boulevard Delahaye",,29200,,60.5,302,France,Denise,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"36, rue de Carpentier",SARL,87000,,60.5,303,France,Guy,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,63000,,60.5,304,France,Caroline,NA,Clermont-Ferrand
+1969,0.9,Confiance,2,54.74444444444445,M,,,,Mme,,,SARL,31000,,54.74444444444445,305,France,Astrid,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.,6000,,60.5,306,France,Christophe,NA,Nice
+1963,0.9,Confiance,2,60.60606060606061,M,,,,Mme,,,,51100,,60.60606060606061,307,France,Margot,NA,Reims
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,SARL,49000,,60.5,308,France,Christiane,NA,Angers
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"75, boulevard Besnard",,72000,,60.5,309,France,Hortense,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,25000,,60.5,310,France,Vincent,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,avenue de Didier,S.A.,76600,,60.5,311,France,Danielle,NA,Le Havre
+1962,0.9,Confiance,2,62.11224489795919,M,,,,Mme,,rue Reynaud,,83000,,62.11224489795919,312,France,Andrée,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,87000,,60.5,313,France,Joséphine,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"64, avenue Agnès Gilbert",,13100,,60.5,314,France,Édouard,NA,Aix-en-Provence
+1977,0.9,Confiance,2,46.84285714285714,M,,,,Mme,,"11, rue Jules Vasseur",,25000,,46.84285714285714,315,France,Pénélope,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,chemin Collin,,63000,,60.5,316,France,Frédérique,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"9, chemin Lopez",,37000,,60.5,317,France,Gabrielle,NA,Tours
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,30000,,60.5,318,France,Jacqueline,NA,Nîmes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"7, rue Capucine Leclercq",S.A.R.L.,49000,,60.5,319,France,Michel,NA,Angers
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"70, rue de Toussaint",,29200,,60.5,320,France,Philippe,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"84, avenue Théodore Giraud",,34000,,60.5,321,France,Christiane,NA,Montpellier
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,21000,,60.5,322,France,Antoine,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,63000,,60.5,323,France,Laure,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,21000,,60.5,324,France,Christiane,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,chemin Aubert,S.A.R.L.,13100,,60.5,325,France,Théodore,NA,Aix-en-Provence
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,31000,,60.5,326,France,Dominique,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,87000,,60.5,327,France,Auguste,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,49000,,60.5,328,France,Roger,NA,Angers
+1974,0.9,Confiance,2,49.76923076923077,M,,,,M.,,"7, boulevard Dominique Germain",,66000,,49.76923076923077,329,France,Thibault,NA,Perpignan
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,33000,,60.5,330,France,Émilie,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,59000,,60.5,331,France,Suzanne,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"20, boulevard Claudine Rey",,6000,,60.5,332,France,Hélène,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,42000,,60.5,333,France,Stéphane,NA,Saint-Étienne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,31000,,60.5,334,France,Gabriel,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"6, rue Sébastien Guillot",,42000,,60.5,335,France,Laure,NA,Saint-Étienne
+1966,0.9,Confiance,2,57.927083333333336,M,,,,M.,,"25, rue Fontaine",,69001,,57.927083333333336,336,France,Tristan,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.S.,33000,,60.5,337,France,Marc,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,35000,,60.5,338,France,Clémence,NA,Rennes
+1964,0.9,Confiance,2,60.257425742574256,M,,,,Mme,,"34, boulevard de Weber",,34000,,60.257425742574256,339,France,Lorraine,NA,Montpellier
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,66000,,60.5,340,France,Robert,NA,Perpignan
+2024,0.9,Confiance -,3,,M,,,,Mme,,"8, rue Bigot",,69100,,,341,France,Olivie,NA,Villeurbanne
+1972,0.9,Confiance,2,51.98809523809524,M,,,,Mme,,"583, boulevard Maurice Navarro",,66000,,51.98809523809524,342,France,Christelle,NA,Perpignan
+1964,0.9,Confiance,2,59.97894736842105,M,,,,Mme,,,,67000,,59.97894736842105,343,France,Lucy,NA,Strasbourg
+1966,0.9,Confiance,2,57.927083333333336,M,,,,M.,,,,59000,,57.927083333333336,344,France,Tristan,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"3, rue Isaac Boyer",,44000,,60.5,345,France,Henri,NA,Nantes
+1963,0.9,Confiance,2,60.60606060606061,M,,,,Mme,,,,67000,,60.60606060606061,346,France,Margot,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,67000,,60.5,347,France,Jacqueline,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,51100,,60.5,348,France,Michel,NA,Reims
+1964,0.9,Confiance,2,60.5,M,,,,M.,,boulevard de Marty,,37000,,60.5,349,France,François,NA,Tours
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"13, chemin de Benoit",,6000,,60.5,350,France,Théodore,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,SA,67000,,60.5,351,France,Alexandre,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,80000,,60.5,352,France,Yves,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,38000,,60.5,353,France,Thomas,NA,Grenoble
+1965,0.9,Confiance,2,58.689655172413794,M,,,,M.,,,,44000,,58.689655172413794,354,France,Zacharie,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,29200,,60.5,355,France,Aimée,NA,Brest
+1947,0.9,Confiance,2,77.47368421052632,M,,,,Mme,,,,67000,,77.47368421052632,356,France,Luce,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,76600,,60.5,357,France,Suzanne,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.,38000,,60.5,358,France,William,NA,Grenoble
+1963,0.9,Confiance,2,60.86,M,,,,Mme,,boulevard Audrey Delaunay,,63000,,60.86,359,France,Anastasie,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,25000,,60.5,360,France,Isabelle,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,59000,,60.5,361,France,Étienne,NA,Lille
+1966,0.9,Confiance,2,58.291666666666664,M,,,,M.,,,,66000,,58.291666666666664,362,France,Lucas,NA,Perpignan
+1962,0.9,Confiance,2,61.5,M,,,,Mme,,,,59000,,61.5,363,France,Susanne,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,63000,,60.5,364,France,Jean,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,M.,,avenue de Launay,,30000,,60.5,365,France,Thomas,NA,Nîmes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,72000,,60.5,366,France,Luc,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"76, rue Frédéric Jean",S.A.,38000,,60.5,367,France,Joséphine,NA,Grenoble
+1947,0.9,Confiance,2,77.47368421052632,M,,,,Mme,,"880, avenue Lucy Techer",et Fils,13001,,77.47368421052632,368,France,Luce,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,rue Christiane Bruneau,,29200,,60.5,369,France,Sabine,NA,Brest
+1966,0.9,Confiance,2,57.864583333333336,M,,,,Mme,,,,49000,,57.864583333333336,370,France,Corinne,NA,Angers
+1964,0.9,Confiance,2,60.46534653465346,M,,,,Mme,,,,59000,,60.46534653465346,371,France,Élodie,NA,Lille
+1963,0.9,Confiance,2,60.60606060606061,M,,,,Mme,,,,34000,,60.60606060606061,372,France,Margot,NA,Montpellier
+1980,0.9,Confiance,2,44.43283582089552,M,,,,M.,,rue Reynaud,,13100,,44.43283582089552,373,France,Matthieu,NA,Aix-en-Provence
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"85, rue Bazin",,67000,,60.5,374,France,Emmanuel,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"9, rue Alexandrie Le Gall",,69100,,60.5,375,France,Frédérique,NA,Villeurbanne
+1964,0.9,Confiance,2,59.97894736842105,M,,,,Mme,,,SARL,51100,,59.97894736842105,376,France,Lucy,NA,Reims
+1974,0.9,Confiance,2,49.76923076923077,M,,,,M.,,avenue Bonnet,S.A.R.L.,34000,,49.76923076923077,377,France,Thibault,NA,Montpellier
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,21000,,60.5,378,France,Amélie,NA,Dijon
+1963,0.9,Confiance,2,60.92079207920792,M,,,,Mme,,,,30000,,60.92079207920792,379,France,Marie,NA,Nîmes
+1958,0.9,Confiance,2,66.33333333333333,M,,,,Mme,,,,30000,,66.33333333333333,380,France,Marcelle,NA,Nîmes
+1964,0.9,Confiance,2,60.5,F,,,,Mme,,"87, rue de Besson",S.A.,69001,,60.5,381,France,Célina,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,74000,,60.5,382,France,Émile,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"4, rue de Toussaint",,69001,,60.5,383,France,Honoré,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,35000,,60.5,384,France,Sabine,NA,Rennes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"40, chemin Mahe",SA,74000,,60.5,385,France,Denis,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.R.L.,30000,,60.5,386,France,Aimé,NA,Nîmes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"89, rue Julie Jourdan",SARL,25000,,60.5,387,France,Guillaume,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"2, avenue de Torres",SA,87000,,60.5,388,France,Grégoire,NA,Limoges
+1957,0.9,Confiance,2,66.87640449438203,M,,,,Mme,,,,51100,,66.87640449438203,389,France,Josette,NA,Reims
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"17, avenue de Poulain",,51100,,60.5,390,France,Michelle,NA,Reims
+1966,0.9,Confiance,2,57.864583333333336,M,,,,Mme,,,,75001,,57.864583333333336,391,France,Corinne,NA,Paris
+1969,0.9,Confiance,2,54.74444444444445,M,,,,Mme,,,,75001,,54.74444444444445,392,France,Astrid,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,S.A.S.,38000,,60.5,393,France,Sabine,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"5, avenue de Torres",,44000,,60.5,394,France,Rémy,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,31000,,60.5,395,France,Colette,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,35000,,60.5,396,France,Auguste,NA,Rennes
+2024,0.9,Confiance -,3,,F,,,,Mme,,,,38000,,,397,France,Alexandria,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"59, boulevard Olivie Peron",,87000,,60.5,398,France,Stéphanie,NA,Limoges
+1983,0.9,Confiance,2,40.557377049180324,M,,,,Mme,,,,25000,,40.557377049180324,399,France,Capucine,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"84, rue Guillaume Simon",,34000,,60.5,400,France,Théodore,NA,Montpellier
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,et Fils,87000,,60.5,401,France,Nicolas,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"61, rue Baudry",,38000,,60.5,402,France,Adélaïde,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.,51100,,60.5,403,France,Antoine,NA,Reims
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"73, rue Loiseau",,87000,,60.5,404,France,Antoinette,NA,Limoges
+1965,0.9,Confiance,2,59.316326530612244,F,,,,Mme,,,,57000,,59.316326530612244,405,France,Laetitia,NA,Metz
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,13001,,60.5,406,France,Honoré,NA,Marseille
+1982,0.9,Confiance,2,41.793103448275865,M,,,,Mme,,"53, boulevard Dubois",,66000,,41.793103448275865,407,France,Alexandrie,NA,Perpignan
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,59000,,60.5,408,France,Christophe,NA,Lille
+1974,0.9,Confiance,2,49.76923076923077,M,,,,M.,,,SARL,13001,,49.76923076923077,409,France,Thibault,NA,Marseille
+1974,0.9,Confiance,2,49.76923076923077,M,,,,M.,,"96, boulevard Robert Monnier",,35000,,49.76923076923077,410,France,Thibault,NA,Rennes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,21000,,60.5,411,France,Marthe,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,13001,,60.5,412,France,Dorothée,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,et Fils,29200,,60.5,413,France,Sabine,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,49000,,60.5,414,France,Gabriel,NA,Angers
+1964,0.9,Confiance,2,60.01980198019802,M,,,,M.,,"386, rue de Delaunay",,35000,,60.01980198019802,415,France,Patrick,NA,Rennes
+1977,0.9,Confiance,2,47.338235294117645,M,,,,Mme,,,,69100,,47.338235294117645,416,France,Susan,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,44000,,60.5,417,France,Roland,NA,Nantes
+1976,0.9,Confiance,2,48.21333333333333,M,,,,M.,,"376, rue Blanchard",,83000,,48.21333333333333,418,France,Thibaut,NA,Toulon
+1964,0.9,Confiance,2,60.23,M,,,,M.,,,,57000,,60.23,419,France,Isaac,NA,Metz
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"85, boulevard Margot Peron",,80000,,60.5,420,France,Benoît,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,59000,,60.5,421,France,Anaïs,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,66000,,60.5,422,France,Bernadette,NA,Perpignan
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"88, avenue Texier",,76600,,60.5,423,France,Sébastien,NA,Le Havre
+1994,0.9,Confiance,2,29.6,M,,,,Mme,,boulevard Chevallier,,13001,,29.6,424,France,Margaux,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,63000,,60.5,425,France,Denise,NA,Clermont-Ferrand
+1965,0.9,Confiance,2,58.689655172413794,M,,,,M.,,,,35000,,58.689655172413794,426,France,Zacharie,NA,Rennes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,80000,,60.5,427,France,Stéphanie,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,59000,,60.5,428,France,Agnès,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"16, boulevard de Fabre",,31000,,60.5,429,France,Laure,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"27, avenue de Jourdan",,59000,,60.5,430,France,Frédéric,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,87000,,60.5,431,France,Maurice,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,67000,,60.5,432,France,Mathilde,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,13001,,60.5,433,France,Anaïs,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,21000,,60.5,434,France,Gabriel,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,21000,,60.5,435,France,Martin,NA,Dijon
+1981,0.9,Confiance,2,43.0,M,,,,Mme,,"20, boulevard Adèle Neveu",,69100,,43.0,436,France,Anouk,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"8, boulevard Roger",,31000,,60.5,437,France,Madeleine,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,37000,,60.5,438,France,Henriette,NA,Tours
+1974,0.9,Confiance,2,50.46153846153846,M,,,,Mme,,"9, chemin Julien Le Gall",,30000,,50.46153846153846,439,France,Arnaude,NA,Nîmes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"858, chemin de Bailly",S.A.,87000,,60.5,440,France,Maurice,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"84, rue de Gilles",,37000,,60.5,441,France,Valentine,NA,Tours
+2000,0.9,Confiance,2,24.5,M,,,,Mme,,,,72000,,24.5,442,France,Margaud,NA,Le Mans
+1969,0.9,Confiance,2,54.74444444444445,M,,,,Mme,,,,87000,,54.74444444444445,443,France,Astrid,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,33000,,60.5,444,France,Léon,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"654, boulevard de Renaud",,75001,,60.5,445,France,Roland,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.,35000,,60.5,446,France,Gilles,NA,Rennes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"49, boulevard Marchal",,59000,,60.5,447,France,Michel,NA,Lille
+1987,0.9,Confiance,2,37.22,M,,,,Mme,,,,6000,,37.22,448,France,Océane,NA,Nice
+1957,0.9,Confiance,2,66.87640449438203,M,,,,Mme,,"60, chemin Nathalie Raymond",,6000,,66.87640449438203,449,France,Josette,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"233, avenue de Raymond",,76600,,60.5,450,France,Éric,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,13001,,60.5,451,France,Claudine,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,44000,,60.5,452,France,Joseph,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,35000,,60.5,453,France,Gabriel,NA,Rennes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,76600,,60.5,454,France,Pierre,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.S.,87000,,60.5,455,France,Robert,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,13100,,60.5,456,France,Joseph,NA,Aix-en-Provence
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,69001,,60.5,457,France,Isabelle,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"85, chemin de Hernandez",,76600,,60.5,458,France,Denis,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,SA,37000,,60.5,459,France,Lucie,NA,Tours
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,80000,,60.5,460,France,Agnès,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"96, avenue de Dumont",,69001,,60.5,461,France,Claude,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,SARL,87000,,60.5,462,France,Benjamin,NA,Limoges
+2024,0.9,Confiance -,3,,F,,,,Mme,,avenue de Goncalves,,44000,,,463,France,Alexandria,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,74000,,60.5,464,France,Martin,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,21000,,60.5,465,France,Denise,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,13001,,60.5,466,France,Aurélie,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,37000,,60.5,467,France,Laure,NA,Tours
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,72000,,60.5,468,France,Jacqueline,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,13001,,60.5,469,France,Laurence,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,69001,,60.5,470,France,Jules,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"4, avenue Schmitt",et Fils,34000,,60.5,471,France,Benjamin,NA,Montpellier
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,37000,,60.5,472,France,Marcel,NA,Tours
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,38000,,60.5,473,France,Bertrand,NA,Grenoble
+1962,0.9,Confiance,2,61.5,M,,,,Mme,,,,76600,,61.5,474,France,Susanne,NA,Le Havre
+1963,0.9,Confiance,2,60.92079207920792,M,,,,Mme,,,,69100,,60.92079207920792,475,France,Marie,NA,Villeurbanne
+1974,0.9,Confiance,2,50.46153846153846,M,,,,Mme,,"92, rue Guy Martineau",,74000,,50.46153846153846,476,France,Arnaude,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"9, avenue Courtois",,30000,,60.5,477,France,Laurence,NA,Nîmes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"66, rue Collet",,35000,,60.5,478,France,Jean,NA,Rennes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,13100,,60.5,479,France,Victor,NA,Aix-en-Provence
+1963,0.9,Confiance,2,60.86,M,,,,Mme,,,,29200,,60.86,480,France,Anastasie,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,et Fils,69001,,60.5,481,France,Aurore,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,13001,,60.5,482,France,Daniel,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,87000,,60.5,483,France,Robert,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"396, avenue de Noël",,59000,,60.5,484,France,Daniel,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"21, rue de Collin",,83000,,60.5,485,France,Vincent,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,67000,,60.5,486,France,Yves,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,6000,,60.5,487,France,Nathalie,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,80000,,60.5,488,France,Antoinette,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,M.,,rue François,,75001,,60.5,489,France,Arthur,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"569, rue Peron",,49000,,60.5,490,France,Marine,NA,Angers
+1962,0.9,Confiance,2,61.5,M,,,,Mme,,,,21000,,61.5,491,France,Susanne,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,66000,,60.5,492,France,Alice,NA,Perpignan
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,rue Schmitt,,80000,,60.5,493,France,Sylvie,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,74000,,60.5,494,France,Constance,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,33000,,60.5,495,France,Georges,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,59000,,60.5,496,France,Pauline,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,34000,,60.5,497,France,Sabine,NA,Montpellier
+1977,0.9,Confiance,2,47.338235294117645,M,,,,Mme,,,,72000,,47.338235294117645,498,France,Susan,NA,Le Mans
+1964,0.9,Confiance,2,60.46534653465346,M,,,,Mme,,,,83000,,60.46534653465346,499,France,Élodie,NA,Toulon
+1974,0.9,Confiance,2,50.46153846153846,M,,,,Mme,,,,67000,,50.46153846153846,500,France,Arnaude,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,S.A.R.L.,38000,,60.5,501,France,Thérèse,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,30000,,60.5,502,France,Élisabeth,NA,Nîmes
+1965,0.9,Confiance,2,59.313131313131315,M,,,,Mme,,rue de Carlier,,38000,,59.313131313131315,503,France,Manon,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"527, rue de Benard",,72000,,60.5,504,France,Christiane,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,37000,,60.5,505,France,David,NA,Tours
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,80000,,60.5,506,France,Diane,NA,Amiens
+1963,0.9,Confiance,2,60.60606060606061,M,,,,Mme,,,,21000,,60.60606060606061,507,France,Margot,NA,Dijon
+1984,0.9,Confiance,2,39.81818181818182,M,,,,M.,,,,33000,,39.81818181818182,508,France,Timothée,NA,Bordeaux
+1966,0.9,Confiance,2,57.927083333333336,M,,,,M.,,,SARL,83000,,57.927083333333336,509,France,Tristan,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,13001,,60.5,510,France,Nathalie,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,13100,,60.5,511,France,Madeleine,NA,Aix-en-Provence
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,rue de Guillet,,83000,,60.5,512,France,Michelle,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,chemin Albert,,66000,,60.5,513,France,Éric,NA,Perpignan
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,S.A.,33000,,60.5,514,France,Dorothée,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,38000,,60.5,515,France,Guillaume,NA,Grenoble
+1963,0.9,Confiance,2,60.86,M,,,,Mme,,,,83000,,60.86,516,France,Anastasie,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"13, rue de Carre",,49000,,60.5,517,France,Jean,NA,Angers
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,29200,,60.5,518,France,Claudine,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,63000,,60.5,519,France,Michel,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"33, boulevard Lucie Lebreton",S.A.S.,49000,,60.5,520,France,Alex,NA,Angers
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,et Fils,66000,,60.5,521,France,Roger,NA,Perpignan
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"210, chemin de Hamon",,29200,,60.5,522,France,Rémy,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,59000,,60.5,523,France,Augustin,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,66000,,60.5,524,France,Marthe,NA,Perpignan
+1964,0.9,Confiance,2,60.23,M,,,,M.,,,,34000,,60.23,525,France,Isaac,NA,Montpellier
+1958,0.9,Confiance,2,65.91208791208791,M,,,,Mme,,"2, rue Emmanuelle Payet",,72000,,65.91208791208791,526,France,Renée,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"63, boulevard Henriette Bertrand",et Fils,57000,,60.5,527,France,Martin,NA,Metz
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,SA,83000,,60.5,528,France,Agnès,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,74000,,60.5,529,France,Éléonore,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"41, chemin de Guillaume",,21000,,60.5,530,France,Philippine,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,34000,,60.5,531,France,Adélaïde,NA,Montpellier
+2024,0.9,Confiance -,3,,M,,,,Mme,,"61, boulevard Victoire Langlois",,69100,,,532,France,Olivie,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,SA,67000,,60.5,533,France,Jacques,NA,Strasbourg
+1963,0.9,Confiance,2,60.86,M,,,,Mme,,,,29200,,60.86,534,France,Anastasie,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,SARL,75001,,60.5,535,France,Hortense,NA,Paris
+1964,0.9,Confiance,2,60.01980198019802,M,,,,M.,,rue Nathalie Michel,,63000,,60.01980198019802,536,France,Patrick,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.S.,31000,,60.5,537,France,Honoré,NA,Toulouse
+1979,0.9,Confiance,2,45.01449275362319,M,,,,Mme,,,,25000,,45.01449275362319,538,France,Audrey,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"74, rue Jeannine Duhamel",S.A.S.,33000,,60.5,539,France,Nathalie,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,M.,,rue Suzanne Julien,,37000,,60.5,540,France,Grégoire,NA,Tours
+1987,0.9,Confiance,2,37.22,M,,,,Mme,,,,31000,,37.22,541,France,Océane,NA,Toulouse
+1962,0.9,Confiance,2,61.56521739130435,M,,,,Mme,,,,57000,,61.56521739130435,542,France,Zoé,NA,Metz
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,et Fils,6000,,60.5,543,France,Philippe,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"5, boulevard de Marty",,49000,,60.5,544,France,Émilie,NA,Angers
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,80000,,60.5,545,France,Laurent,NA,Amiens
+1974,0.9,Confiance,2,50.46153846153846,M,,,,Mme,,,,29200,,50.46153846153846,546,France,Arnaude,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,34000,,60.5,547,France,René,NA,Montpellier
+1974,0.9,Confiance,2,50.46153846153846,M,,,,Mme,,"27, boulevard de Teixeira",et Fils,69001,,50.46153846153846,548,France,Arnaude,NA,Lyon
+1958,0.9,Confiance,2,65.91208791208791,M,,,,Mme,,,,35000,,65.91208791208791,549,France,Renée,NA,Rennes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,30000,,60.5,550,France,Aurélie,NA,Nîmes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,69001,,60.5,551,France,Mathilde,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,75001,,60.5,552,France,Édouard,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,25000,,60.5,553,France,Alphonse,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,boulevard Nicolas Marion,,75001,,60.5,554,France,Henri,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,30000,,60.5,555,France,Franck,NA,Nîmes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"6, rue Martins",,37000,,60.5,556,France,Michel,NA,Tours
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,57000,,60.5,557,France,Robert,NA,Metz
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"85, chemin de Hebert",,6000,,60.5,558,France,Nathalie,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,SA,6000,,60.5,559,France,Diane,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,37000,,60.5,560,France,Alice,NA,Tours
+1958,0.9,Confiance,2,66.33333333333333,M,,,,Mme,,"91, rue Loiseau",,29200,,66.33333333333333,561,France,Marcelle,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"7, rue de Monnier",,37000,,60.5,562,France,Isabelle,NA,Tours
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,21000,,60.5,563,France,Olivier,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,57000,,60.5,564,France,Jeanne,NA,Metz
+1964,0.9,Confiance,2,60.01980198019802,M,,,,M.,,"7, chemin de Grenier",,21000,,60.01980198019802,565,France,Patrick,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,69001,,60.5,566,France,Adèle,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"38, rue Roland Bonnin",,69100,,60.5,567,France,Colette,NA,Villeurbanne
+1974,0.9,Confiance,2,50.46153846153846,M,,,,Mme,,,,13001,,50.46153846153846,568,France,Arnaude,NA,Marseille
+1963,0.9,Confiance,2,60.60606060606061,M,,,,Mme,,,,69001,,60.60606060606061,569,France,Margot,NA,Lyon
+1965,0.9,Confiance,2,59.04040404040404,M,,,,Mme,,,,42000,,59.04040404040404,570,France,Maryse,NA,Saint-Étienne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"67, avenue de Da Costa",,74000,,60.5,571,France,René,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,S.A.S.,6000,,60.5,572,France,Monique,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,59000,,60.5,573,France,Jules,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,et Fils,25000,,60.5,574,France,Stéphanie,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,76600,,60.5,575,France,François,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,6000,,60.5,576,France,Cécile,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"68, rue Lelièvre",S.A.S.,66000,,60.5,577,France,André,NA,Perpignan
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,38000,,60.5,578,France,Honoré,NA,Grenoble
+1976,0.9,Confiance,2,48.21333333333333,M,,,,M.,,,,80000,,48.21333333333333,579,France,Thibaut,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,80000,,60.5,580,France,Victoire,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"799, boulevard Renée Da Costa",,31000,,60.5,581,France,Olivier,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,83000,,60.5,582,France,Nicole,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"37, rue de Bonnin",SA,37000,,60.5,583,France,Léon,NA,Tours
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"61, rue Mathieu",,29200,,60.5,584,France,Gilbert,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.R.L.,76600,,60.5,585,France,Gilles,NA,Le Havre
+1977,0.9,Confiance,2,47.338235294117645,M,,,,Mme,,"504, rue Aimée Brun",,44000,,47.338235294117645,586,France,Susan,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"16, chemin Émile Camus",,69001,,60.5,587,France,Guy,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"30, avenue Perrin",SARL,44000,,60.5,588,France,Claude,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,SA,69100,,60.5,589,France,Gilles,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.,72000,,60.5,590,France,Augustin,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,69100,,60.5,591,France,Laurent,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,33000,,60.5,592,France,Louis,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"58, rue Bertrand Masson",SA,33000,,60.5,593,France,Aurélie,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,34000,,60.5,594,France,Gilbert,NA,Montpellier
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,33000,,60.5,595,France,Adrienne,NA,Bordeaux
+1962,0.9,Confiance,2,61.5,M,,,,Mme,,,,76600,,61.5,596,France,Susanne,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"663, chemin Thomas Hoareau",,49000,,60.5,597,France,Julie,NA,Angers
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,76600,,60.5,598,France,David,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,75001,,60.5,599,France,Michèle,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,75001,,60.5,600,France,Henriette,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"7, boulevard Catherine Legros",,69100,,60.5,601,France,Marthe,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,13001,,60.5,602,France,Théodore,NA,Marseille
+1966,0.9,Confiance,2,57.864583333333336,M,,,,Mme,,,SA,87000,,57.864583333333336,603,France,Corinne,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,rue Antoine,SARL,69001,,60.5,604,France,Simone,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,6000,,60.5,605,France,Antoine,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,67000,,60.5,606,France,Gabriel,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,74000,,60.5,607,France,Étienne,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,6000,,60.5,608,France,Pauline,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"102, rue Aubert",,29200,,60.5,609,France,Olivier,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"7, rue Olivier Masson",,67000,,60.5,610,France,Philippe,NA,Strasbourg
+1947,0.9,Confiance,2,77.47368421052632,M,,,,Mme,,,et Fils,80000,,77.47368421052632,611,France,Luce,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"96, rue Léger",,63000,,60.5,612,France,Guillaume,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,80000,,60.5,613,France,Thérèse,NA,Amiens
+1960,0.9,Confiance,2,64.5,M,,,,Mme,,,,33000,,64.5,614,France,Odette,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"9, chemin Carpentier",et Fils,42000,,60.5,615,France,Christine,NA,Saint-Étienne
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,SA,6000,,60.5,616,France,Amélie,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,74000,,60.5,617,France,Claude,NA,Annecy
+1957,0.9,Confiance,2,66.8314606741573,M,,,,Mme,,"85, avenue Josette Fernandes",,37000,,66.8314606741573,618,France,Paulette,NA,Tours
+1957,0.9,Confiance,2,66.8314606741573,M,,,,Mme,,"896, boulevard de Aubry",S.A.R.L.,63000,,66.8314606741573,619,France,Paulette,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,33000,,60.5,620,France,Honoré,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"3, chemin Benard",,69001,,60.5,621,France,Émile,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,51100,,60.5,622,France,Nathalie,NA,Reims
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"88, avenue Chantal Diallo",SARL,49000,,60.5,623,France,Virginie,NA,Angers
+1957,0.9,Confiance,2,66.87640449438203,M,,,,Mme,,,,87000,,66.87640449438203,624,France,Josette,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,87000,,60.5,625,France,Adrien,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,42000,,60.5,626,France,Bernard,NA,Saint-Étienne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,25000,,60.5,627,France,Adrien,NA,Besançon
+1969,0.9,Confiance,2,54.74444444444445,M,,,,Mme,,"6, rue Marie",et Fils,51100,,54.74444444444445,628,France,Astrid,NA,Reims
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,6000,,60.5,629,France,Christiane,NA,Nice
+1965,0.9,Confiance,2,59.313131313131315,M,,,,Mme,,,SARL,57000,,59.313131313131315,630,France,Manon,NA,Metz
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,6000,,60.5,631,France,Victor,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.,6000,,60.5,632,France,Gérard,NA,Nice
+2000,0.9,Confiance,2,24.5,M,,,,Mme,,"7, avenue de Munoz",,38000,,24.5,633,France,Margaud,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"94, rue de Delorme",,13001,,60.5,634,France,Amélie,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"27, rue de Carpentier",,13100,,60.5,635,France,Christiane,NA,Aix-en-Provence
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.R.L.,87000,,60.5,636,France,Alfred,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,13001,,60.5,637,France,Lucie,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.R.L.,29200,,60.5,638,France,Stéphane,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,SA,59000,,60.5,639,France,Alexandre,NA,Lille
+1958,0.9,Confiance,2,65.91208791208791,M,,,,Mme,,,,35000,,65.91208791208791,640,France,Renée,NA,Rennes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"785, avenue Christiane Pruvost",,33000,,60.5,641,France,Michel,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,13001,,60.5,642,France,Henri,NA,Marseille
+1966,0.9,Confiance,2,57.927083333333336,M,,,,M.,,,,69001,,57.927083333333336,643,France,Tristan,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,SARL,83000,,60.5,644,France,Julie,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.,69100,,60.5,645,France,Stéphane,NA,Villeurbanne
+2024,0.9,Confiance -,3,,F,,,,Mme,,"546, chemin Noël Rivière",,63000,,,646,France,Alexandria,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"19, boulevard Monique Gay",,83000,,60.5,647,France,Gilbert,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,SARL,69001,,60.5,648,France,Hélène,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,74000,,60.5,649,France,Théodore,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,87000,,60.5,650,France,Virginie,NA,Limoges
+2024,0.9,Confiance -,3,,F,,,,Mme,,,,38000,,,651,France,Alexandria,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,13001,,60.5,652,France,Gilles,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,SA,74000,,60.5,653,France,Martin,NA,Annecy
+1964,0.9,Confiance,2,60.23,M,,,,M.,,,,38000,,60.23,654,France,Isaac,NA,Grenoble
+1969,0.9,Confiance,2,54.74444444444445,M,,,,Mme,,,,63000,,54.74444444444445,655,France,Astrid,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,30000,,60.5,656,France,Denis,NA,Nîmes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,44000,,60.5,657,France,Benjamin,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,13100,,60.5,658,France,Jules,NA,Aix-en-Provence
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,67000,,60.5,659,France,Louis,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"6, rue de Pichon",,30000,,60.5,660,France,Émile,NA,Nîmes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.S.,69001,,60.5,661,France,Georges,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,boulevard Nathalie Perrier,,57000,,60.5,662,France,Clémence,NA,Metz
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,boulevard Benoît Lecoq,,49000,,60.5,663,France,Amélie,NA,Angers
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,6000,,60.5,664,France,Alphonse,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,69100,,60.5,665,France,Camille,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,63000,,60.5,666,France,Marcel,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"256, rue Roussel",,37000,,60.5,667,France,Franck,NA,Tours
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,35000,,60.5,668,France,Sabine,NA,Rennes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,67000,,60.5,669,France,Mathilde,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,74000,,60.5,670,France,Dominique,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,S.A.S.,25000,,60.5,671,France,Michèle,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,13001,,60.5,672,France,Michel,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,6000,,60.5,673,France,Laurent,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,37000,,60.5,674,France,Anne,NA,Tours
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,boulevard Marcel Étienne,,49000,,60.5,675,France,Élisabeth,NA,Angers
+2024,0.9,Confiance -,3,,M,,,,Mme,,"13, chemin Jeanne Martel",,25000,,,676,France,Olivie,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.S.,6000,,60.5,677,France,David,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,44000,,60.5,678,France,Joseph,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.,69001,,60.5,679,France,François,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,13001,,60.5,680,France,Léon,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,75001,,60.5,681,France,Christophe,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,rue Imbert,,21000,,60.5,682,France,Charlotte,NA,Dijon
+1957,0.9,Confiance,2,66.8314606741573,M,,,,Mme,,,,72000,,66.8314606741573,683,France,Paulette,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,33000,,60.5,684,France,Guillaume,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,SARL,35000,,60.5,685,France,Alexandre,NA,Rennes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,66000,,60.5,686,France,Marcel,NA,Perpignan
+1964,0.9,Confiance,2,60.5,F,,,,Mme,,,,13100,,60.5,687,France,Célina,NA,Aix-en-Provence
+1957,0.9,Confiance,2,66.8314606741573,M,,,,Mme,,,,13001,,66.8314606741573,688,France,Paulette,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,72000,,60.5,689,France,Éléonore,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,31000,,60.5,690,France,Daniel,NA,Toulouse
+1965,0.9,Confiance,2,58.689655172413794,M,,,,M.,,"42, rue Michel Carre",,59000,,58.689655172413794,691,France,Zacharie,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,rue Thierry,,57000,,60.5,692,France,Jean,NA,Metz
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,57000,,60.5,693,France,Gabrielle,NA,Metz
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,66000,,60.5,694,France,Marc,NA,Perpignan
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"540, avenue de Berthelot",,72000,,60.5,695,France,Hélène,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,SARL,80000,,60.5,696,France,Marc,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.,75001,,60.5,697,France,Thomas,NA,Paris
+1962,0.9,Confiance,2,62.11224489795919,M,,,,Mme,,"323, avenue de Daniel",S.A.R.L.,31000,,62.11224489795919,698,France,Andrée,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,57000,,60.5,699,France,Victor,NA,Metz
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,67000,,60.5,700,France,Christophe,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,25000,,60.5,701,France,Geneviève,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,rue de Turpin,,87000,,60.5,702,France,Henri,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"76, rue Boulanger",,74000,,60.5,703,France,Christiane,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,37000,,60.5,704,France,Franck,NA,Tours
+1979,0.9,Confiance,2,45.01449275362319,M,,,,Mme,,,,76600,,45.01449275362319,705,France,Audrey,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,75001,,60.5,706,France,Anne,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,59000,,60.5,707,France,Adrien,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,6000,,60.5,708,France,Luc,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"5, rue de Breton",,80000,,60.5,709,France,Franck,NA,Amiens
+1962,0.9,Confiance,2,62.11224489795919,M,,,,Mme,,,,83000,,62.11224489795919,710,France,Andrée,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,38000,,60.5,711,France,Sylvie,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,67000,,60.5,712,France,Emmanuelle,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,63000,,60.5,713,France,Valentine,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"23, boulevard Letellier",,13100,,60.5,714,France,Maurice,NA,Aix-en-Provence
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,29200,,60.5,715,France,Sylvie,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"19, boulevard Michelle Fischer",,21000,,60.5,716,France,Thomas,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,SARL,83000,,60.5,717,France,Hortense,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,66000,,60.5,718,France,William,NA,Perpignan
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,rue Gosselin,S.A.,74000,,60.5,719,France,Valérie,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"23, chemin de Nguyen",,69001,,60.5,720,France,Danielle,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,51100,,60.5,721,France,Étienne,NA,Reims
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.,87000,,60.5,722,France,Léon,NA,Limoges
+1958,0.9,Confiance,2,66.33333333333333,M,,,,Mme,,boulevard Auguste Fischer,,42000,,66.33333333333333,723,France,Marcelle,NA,Saint-Étienne
+2024,0.9,Confiance -,3,,M,,,,Mme,,,,66000,,,724,France,Olivie,NA,Perpignan
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,13100,,60.5,725,France,Danielle,NA,Aix-en-Provence
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,75001,,60.5,726,France,Gérard,NA,Paris
+1958,0.9,Confiance,2,65.91208791208791,M,,,,Mme,,,,66000,,65.91208791208791,727,France,Renée,NA,Perpignan
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,34000,,60.5,728,France,Théodore,NA,Montpellier
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,83000,,60.5,729,France,Georges,NA,Toulon
+1984,0.9,Confiance,2,39.81818181818182,M,,,,M.,,"509, rue Arnaud",,35000,,39.81818181818182,730,France,Timothée,NA,Rennes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,57000,,60.5,731,France,Marc,NA,Metz
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.S.,25000,,60.5,732,France,Bertrand,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,S.A.S.,33000,,60.5,733,France,Colette,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,30000,,60.5,734,France,Alexandre,NA,Nîmes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,51100,,60.5,735,France,Valentine,NA,Reims
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"62, rue Emmanuel Gomez",S.A.S.,33000,,60.5,736,France,Juliette,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"75, rue Bouvet",,29200,,60.5,737,France,Suzanne,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,31000,,60.5,738,France,Christine,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,59000,,60.5,739,France,Étienne,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,33000,,60.5,740,France,Grégoire,NA,Bordeaux
+1965,0.9,Confiance,2,58.53061224489796,F,,,,Mme,,"82, chemin de Paul",,38000,,58.53061224489796,741,France,Patricia,NA,Grenoble
+1966,0.9,Confiance,2,58.291666666666664,M,,,,M.,,"53, avenue de Marques",SA,80000,,58.291666666666664,742,France,Lucas,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,31000,,60.5,743,France,Maurice,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,83000,,60.5,744,France,Alfred,NA,Toulon
+1963,0.9,Confiance,2,60.60606060606061,M,,,,Mme,,"37, rue Dupuy",,35000,,60.60606060606061,745,France,Margot,NA,Rennes
+1963,0.9,Confiance,2,60.92079207920792,M,,,,Mme,,,,66000,,60.92079207920792,746,France,Marie,NA,Perpignan
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,37000,,60.5,747,France,Marianne,NA,Tours
+1974,0.9,Confiance,2,49.76923076923077,M,,,,M.,,,,37000,,49.76923076923077,748,France,Thibault,NA,Tours
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,83000,,60.5,749,France,Denise,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,67000,,60.5,750,France,Eugène,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,69001,,60.5,751,France,Hugues,NA,Lyon
+1965,0.9,Confiance,2,58.689655172413794,M,,,,M.,,,,72000,,58.689655172413794,752,France,Zacharie,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,SA,31000,,60.5,753,France,David,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,44000,,60.5,754,France,Émilie,NA,Nantes
+1965,0.9,Confiance,2,59.313131313131315,M,,,,Mme,,,,34000,,59.313131313131315,755,France,Manon,NA,Montpellier
+1969,0.9,Confiance,2,54.74444444444445,M,,,,Mme,,,S.A.,34000,,54.74444444444445,756,France,Astrid,NA,Montpellier
+1981,0.9,Confiance,2,43.0,M,,,,Mme,,,et Fils,38000,,43.0,757,France,Anouk,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"79, chemin Chauvin",,42000,,60.5,758,France,Juliette,NA,Saint-Étienne
+1964,0.9,Confiance,2,60.5,F,,,,Mme,,,,66000,,60.5,759,France,Célina,NA,Perpignan
+1975,0.9,Confiance,2,48.7,M,,,,Mme,,,,80000,,48.7,760,France,Maggie,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"54, rue Adèle Faivre",,44000,,60.5,761,France,Gilbert,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,83000,,60.5,762,France,Claudine,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"585, rue Alix Guérin",et Fils,44000,,60.5,763,France,Danielle,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,80000,,60.5,764,France,Simone,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,6000,,60.5,765,France,Frédéric,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"41, rue Sylvie Barbe",,75001,,60.5,766,France,Agathe,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,63000,,60.5,767,France,Léon,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,80000,,60.5,768,France,Léon,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,44000,,60.5,769,France,Adèle,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"77, rue Robert",,29200,,60.5,770,France,Benoît,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,SARL,80000,,60.5,771,France,Alix,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,67000,,60.5,772,France,Marianne,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,S.A.S.,13001,,60.5,773,France,Clémence,NA,Marseille
+1974,0.9,Confiance,2,50.46153846153846,M,,,,Mme,,avenue de Fernandez,S.A.S.,87000,,50.46153846153846,774,France,Arnaude,NA,Limoges
+1969,0.9,Confiance,2,54.74444444444445,M,,,,Mme,,,SARL,44000,,54.74444444444445,775,France,Astrid,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,83000,,60.5,776,France,Frédéric,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,67000,,60.5,777,France,Gilbert,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,SA,25000,,60.5,778,France,Roger,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,57000,,60.5,779,France,Laurent,NA,Metz
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"79, rue de Salmon",,63000,,60.5,780,France,Jacqueline,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"968, rue Thérèse Lambert",,6000,,60.5,781,France,Henriette,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.S.,72000,,60.5,782,France,Jean,NA,Le Mans
+1962,0.9,Confiance,2,61.56521739130435,M,,,,Mme,,"96, rue de Lagarde",,44000,,61.56521739130435,783,France,Zoé,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,13100,,60.5,784,France,Julien,NA,Aix-en-Provence
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,33000,,60.5,785,France,Christine,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"82, avenue Gros",,69100,,60.5,786,France,Agnès,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,25000,,60.5,787,France,Madeleine,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,6000,,60.5,788,France,Frédérique,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"37, rue Éléonore Lemoine",,29200,,60.5,789,France,Robert,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"73, avenue Bodin",,35000,,60.5,790,France,Stéphane,NA,Rennes
+1977,0.9,Confiance,2,46.84285714285714,M,,,,Mme,,,,38000,,46.84285714285714,791,France,Pénélope,NA,Grenoble
+1966,0.9,Confiance,2,58.291666666666664,M,,,,M.,,,,13100,,58.291666666666664,792,France,Lucas,NA,Aix-en-Provence
+1966,0.9,Confiance,2,58.291666666666664,M,,,,M.,,,,29200,,58.291666666666664,793,France,Lucas,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,74000,,60.5,794,France,Louise,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"30, avenue Hebert",,35000,,60.5,795,France,Alfred,NA,Rennes
+1980,0.9,Confiance,2,44.43283582089552,M,,,,M.,,,SARL,6000,,44.43283582089552,796,France,Matthieu,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,63000,,60.5,797,France,Yves,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"1, boulevard de Paris",S.A.S.,74000,,60.5,798,France,Frédéric,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"34, rue Bodin",et Fils,35000,,60.5,799,France,Adrienne,NA,Rennes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,6000,,60.5,800,France,Caroline,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,76600,,60.5,801,France,Gérard,NA,Le Havre
+1963,0.9,Confiance,2,60.60606060606061,M,,,,Mme,,,SARL,42000,,60.60606060606061,802,France,Margot,NA,Saint-Étienne
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,44000,,60.5,803,France,Henriette,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,80000,,60.5,804,France,Émile,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,80000,,60.5,805,France,Olivier,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,34000,,60.5,806,France,Mathilde,NA,Montpellier
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,75001,,60.5,807,France,Julie,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,et Fils,44000,,60.5,808,France,Étienne,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"7, chemin de Guillou",SA,87000,,60.5,809,France,Anaïs,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,35000,,60.5,810,France,Michelle,NA,Rennes
+1966,0.9,Confiance,2,57.927083333333336,M,,,,M.,,,,13001,,57.927083333333336,811,France,Tristan,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,21000,,60.5,812,France,Gilbert,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,76600,,60.5,813,France,Théodore,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,51100,,60.5,814,France,Charles,NA,Reims
+1964,0.9,Confiance,2,60.01980198019802,M,,,,M.,,,,63000,,60.01980198019802,815,France,Patrick,NA,Clermont-Ferrand
+1980,0.9,Confiance,2,44.43283582089552,M,,,,M.,,,,75001,,44.43283582089552,816,France,Matthieu,NA,Paris
+1979,0.9,Confiance,2,45.01449275362319,M,,,,Mme,,"88, boulevard de Garnier",,74000,,45.01449275362319,817,France,Audrey,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,33000,,60.5,818,France,Michelle,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,42000,,60.5,819,France,Roland,NA,Saint-Étienne
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,rue de Bazin,,69100,,60.5,820,France,Clémence,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,SA,31000,,60.5,821,France,Franck,NA,Toulouse
+1972,0.9,Confiance,2,51.98809523809524,M,,,,Mme,,,S.A.R.L.,49000,,51.98809523809524,822,France,Christelle,NA,Angers
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"61, boulevard de Le Goff",,30000,,60.5,823,France,Édith,NA,Nîmes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"441, rue de Lambert",,59000,,60.5,824,France,Édith,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,66000,,60.5,825,France,Édouard,NA,Perpignan
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,63000,,60.5,826,France,Laurent,NA,Clermont-Ferrand
+1962,0.9,Confiance,2,62.11224489795919,M,,,,Mme,,"89, boulevard Suzanne Lambert",SARL,49000,,62.11224489795919,827,France,Andrée,NA,Angers
+1964,0.9,Confiance,2,60.5,M,,,,M.,,rue de Toussaint,,75001,,60.5,828,France,Xavier,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,25000,,60.5,829,France,Suzanne,NA,Besançon
+1958,0.9,Confiance,2,66.33333333333333,M,,,,Mme,,,S.A.S.,57000,,66.33333333333333,830,France,Marcelle,NA,Metz
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"78, chemin de Coste",,63000,,60.5,831,France,Brigitte,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,76600,,60.5,832,France,Augustin,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,44000,,60.5,833,France,Christophe,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"78, chemin Becker",,38000,,60.5,834,France,Martin,NA,Grenoble
+1983,0.9,Confiance,2,40.557377049180324,M,,,,Mme,,,,13100,,40.557377049180324,835,France,Capucine,NA,Aix-en-Provence
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,31000,,60.5,836,France,Henriette,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,35000,,60.5,837,France,Agathe,NA,Rennes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,44000,,60.5,838,France,Claire,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"193, boulevard Augustin Marin",,31000,,60.5,839,France,François,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,74000,,60.5,840,France,Geneviève,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,13001,,60.5,841,France,Arthur,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,44000,,60.5,842,France,Charles,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,25000,,60.5,843,France,Marc,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"19, boulevard Stéphane Aubry",S.A.,63000,,60.5,844,France,Michelle,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,87000,,60.5,845,France,Rémy,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,76600,,60.5,846,France,Marcel,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,et Fils,75001,,60.5,847,France,Augustin,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,35000,,60.5,848,France,Anne,NA,Rennes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,75001,,60.5,849,France,Claudine,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,72000,,60.5,850,France,Nathalie,NA,Le Mans
+1957,0.9,Confiance,2,66.8314606741573,M,,,,Mme,,,S.A.S.,34000,,66.8314606741573,851,France,Paulette,NA,Montpellier
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,87000,,60.5,852,France,Benjamin,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,21000,,60.5,853,France,Pierre,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,31000,,60.5,854,France,Claire,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.,76600,,60.5,855,France,Pierre,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,boulevard Marthe Allard,,76600,,60.5,856,France,Cécile,NA,Le Havre
+1963,0.9,Confiance,2,60.92079207920792,M,,,,Mme,,,,29200,,60.92079207920792,857,France,Marie,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,67000,,60.5,858,France,Raymond,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"57, chemin Sophie Pasquier",S.A.R.L.,6000,,60.5,859,France,Alain,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,6000,,60.5,860,France,Étienne,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"88, chemin Élisabeth Girard",S.A.,87000,,60.5,861,France,Christophe,NA,Limoges
+1964,0.9,Confiance,2,60.5,F,,,,Mme,,,,30000,,60.5,862,France,Célina,NA,Nîmes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,83000,,60.5,863,France,Guy,NA,Toulon
+1964,0.9,Confiance,2,59.97894736842105,M,,,,Mme,,,,87000,,59.97894736842105,864,France,Lucy,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,SA,6000,,60.5,865,France,Éric,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"94, rue de Barbe",,33000,,60.5,866,France,Guillaume,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,66000,,60.5,867,France,Marine,NA,Perpignan
+1964,0.9,Confiance,2,60.5,M,,,,M.,,rue de Barbe,,63000,,60.5,868,France,Théophile,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"78, boulevard de Lejeune",,74000,,60.5,869,France,Sébastien,NA,Annecy
+1965,0.9,Confiance,2,58.689655172413794,M,,,,M.,,,S.A.,51100,,58.689655172413794,870,France,Zacharie,NA,Reims
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"30, rue de Roussel",,69100,,60.5,871,France,Agnès,NA,Villeurbanne
+2024,0.9,Confiance -,3,,M,,,,Mme,,,,33000,,,872,France,Olivie,NA,Bordeaux
+1974,0.9,Confiance,2,49.76923076923077,M,,,,M.,,,,38000,,49.76923076923077,873,France,Thibault,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"85, rue André Monnier",S.A.R.L.,67000,,60.5,874,France,Aimé,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,63000,,60.5,875,France,Élisabeth,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.,69100,,60.5,876,France,Alexandre,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,rue Garnier,,76600,,60.5,877,France,Louis,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,S.A.S.,69100,,60.5,878,France,Claire,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,72000,,60.5,879,France,Inès,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,et Fils,21000,,60.5,880,France,Philippe,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"85, avenue Élisabeth Boucher",,34000,,60.5,881,France,Alix,NA,Montpellier
+1958,0.9,Confiance,2,65.94505494505495,M,,,,Mme,,,et Fils,21000,,65.94505494505495,882,France,Jeannine,NA,Dijon
+1963,0.9,Confiance,2,60.86,M,,,,Mme,,,,37000,,60.86,883,France,Anastasie,NA,Tours
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,rue de Martin,,35000,,60.5,884,France,Victoire,NA,Rennes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,74000,,60.5,885,France,Lucie,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"595, rue Fournier",,31000,,60.5,886,France,Jérôme,NA,Toulouse
+1958,0.9,Confiance,2,65.91208791208791,M,,,,Mme,,,,29200,,65.91208791208791,887,France,Renée,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,87000,,60.5,888,France,Guy,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,57000,,60.5,889,France,Gabriel,NA,Metz
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,59000,,60.5,890,France,Georges,NA,Lille
+1965,0.9,Confiance,2,59.313131313131315,M,,,,Mme,,,et Fils,83000,,59.313131313131315,891,France,Manon,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,35000,,60.5,892,France,Hélène,NA,Rennes
+1966,0.9,Confiance,2,57.927083333333336,M,,,,M.,,"44, rue de Thierry",,30000,,57.927083333333336,893,France,Tristan,NA,Nîmes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,29200,,60.5,894,France,Diane,NA,Brest
+1963,0.9,Confiance,2,60.60606060606061,M,,,,Mme,,,et Fils,57000,,60.60606060606061,895,France,Margot,NA,Metz
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,76600,,60.5,896,France,Christophe,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,M.,,rue Lorraine Picard,,74000,,60.5,897,France,Henri,NA,Annecy
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,67000,,60.5,898,France,Charlotte,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,87000,,60.5,899,France,Alice,NA,Limoges
+1977,0.9,Confiance,2,46.84285714285714,M,,,,Mme,,,,35000,,46.84285714285714,900,France,Pénélope,NA,Rennes
+1962,0.9,Confiance,2,62.11224489795919,M,,,,Mme,,,,66000,,62.11224489795919,901,France,Andrée,NA,Perpignan
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"85, rue de Dijoux",,31000,,60.5,902,France,Benoît,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,30000,,60.5,903,France,Michelle,NA,Nîmes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,6000,,60.5,904,France,Auguste,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,66000,,60.5,905,France,Agnès,NA,Perpignan
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"30, boulevard de Louis",,31000,,60.5,906,France,Jérôme,NA,Toulouse
+1980,0.9,Confiance,2,44.43283582089552,M,,,,M.,,,,38000,,44.43283582089552,907,France,Matthieu,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,SARL,66000,,60.5,908,France,Adélaïde,NA,Perpignan
+1962,0.9,Confiance,2,62.11224489795919,M,,,,Mme,,,,66000,,62.11224489795919,909,France,Andrée,NA,Perpignan
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,6000,,60.5,910,France,David,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,76600,,60.5,911,France,Pierre,NA,Le Havre
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"88, rue Lévy",,51100,,60.5,912,France,Mathilde,NA,Reims
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.R.L.,69001,,60.5,913,France,Guy,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,59000,,60.5,914,France,Jérôme,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,83000,,60.5,915,France,Thomas,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,67000,,60.5,916,France,Monique,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"479, chemin de Thomas",,38000,,60.5,917,France,André,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,21000,,60.5,918,France,Christine,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,25000,,60.5,919,France,Richard,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"20, rue Maillard",,63000,,60.5,920,France,Marine,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,87000,,60.5,921,France,Marc,NA,Limoges
+1962,0.9,Confiance,2,61.5,M,,,,Mme,,,,80000,,61.5,922,France,Susanne,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"277, boulevard de Monnier",,37000,,60.5,923,France,Monique,NA,Tours
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,13100,,60.5,924,France,Agathe,NA,Aix-en-Provence
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,83000,,60.5,925,France,Françoise,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,51100,,60.5,926,France,Frédérique,NA,Reims
+1963,0.9,Confiance,2,60.86,M,,,,Mme,,,,29200,,60.86,927,France,Anastasie,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,13100,,60.5,928,France,Adrienne,NA,Aix-en-Provence
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"32, rue Brigitte Guilbert",,31000,,60.5,929,France,Gilles,NA,Toulouse
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,51100,,60.5,930,France,Rémy,NA,Reims
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.R.L.,76600,,60.5,931,France,Benjamin,NA,Le Havre
+1974,0.9,Confiance,2,49.76923076923077,M,,,,M.,,,,42000,,49.76923076923077,932,France,Thibault,NA,Saint-Étienne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"302, rue Augustin Bertin",,72000,,60.5,933,France,Adrien,NA,Le Mans
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"406, rue de Vaillant",,87000,,60.5,934,France,Clémence,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,34000,,60.5,935,France,Auguste,NA,Montpellier
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"9, boulevard De Sousa",,37000,,60.5,936,France,Roger,NA,Tours
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"63, boulevard de Dubois",SA,33000,,60.5,937,France,Isabelle,NA,Bordeaux
+1975,0.9,Confiance,2,48.7,M,,,,Mme,,,,59000,,48.7,938,France,Maggie,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,69001,,60.5,939,France,Augustin,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"35, avenue Bonneau",,67000,,60.5,940,France,Sylvie,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,42000,,60.5,941,France,Alfred,NA,Saint-Étienne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"389, boulevard de Vidal",SARL,25000,,60.5,942,France,Daniel,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,29200,,60.5,943,France,André,NA,Brest
+1966,0.9,Confiance,2,57.927083333333336,M,,,,M.,,"45, chemin Sabine Loiseau",,69100,,57.927083333333336,944,France,Tristan,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,35000,,60.5,945,France,Antoinette,NA,Rennes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"42, boulevard Duval",,29200,,60.5,946,France,Caroline,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,42000,,60.5,947,France,Alix,NA,Saint-Étienne
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,13001,,60.5,948,France,Hélène,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,rue de Gros,,75001,,60.5,949,France,Vincent,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,29200,,60.5,950,France,David,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,21000,,60.5,951,France,Michelle,NA,Dijon
+1976,0.9,Confiance,2,48.21333333333333,M,,,,M.,,"75, rue Roux",,44000,,48.21333333333333,952,France,Thibaut,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,49000,,60.5,953,France,Adrienne,NA,Angers
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.R.L.,38000,,60.5,954,France,Joseph,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,63000,,60.5,955,France,Mathilde,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,67000,,60.5,956,France,Jacques,NA,Strasbourg
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,25000,,60.5,957,France,Michèle,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"16, avenue Richard Martineau",,6000,,60.5,958,France,Gérard,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,13100,,60.5,959,France,René,NA,Aix-en-Provence
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,SARL,69001,,60.5,960,France,Émilie,NA,Lyon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,boulevard Baudry,,83000,,60.5,961,France,Joséphine,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,et Fils,63000,,60.5,962,France,Geneviève,NA,Clermont-Ferrand
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,37000,,60.5,963,France,Stéphanie,NA,Tours
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,38000,,60.5,964,France,Sébastien,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,75001,,60.5,965,France,Agathe,NA,Paris
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,42000,,60.5,966,France,Françoise,NA,Saint-Étienne
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,S.A.,42000,,60.5,967,France,Nathalie,NA,Saint-Étienne
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"42, rue Bernadette Da Costa",,49000,,60.5,968,France,Roland,NA,Angers
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,49000,,60.5,969,France,Martin,NA,Angers
+1974,0.9,Confiance,2,49.76923076923077,M,,,,M.,,,,75001,,49.76923076923077,970,France,Thibault,NA,Paris
+1964,0.9,Confiance,2,59.97894736842105,M,,,,Mme,,"138, rue Véronique Perrin",,87000,,59.97894736842105,971,France,Lucy,NA,Limoges
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,29200,,60.5,972,France,Claire,NA,Brest
+1962,0.9,Confiance,2,61.5,M,,,,Mme,,boulevard de Fontaine,SARL,80000,,61.5,973,France,Susanne,NA,Amiens
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,38000,,60.5,974,France,Isabelle,NA,Grenoble
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,42000,,60.5,975,France,Jeanne,NA,Saint-Étienne
+1965,0.9,Confiance,2,58.689655172413794,M,,,,M.,,"1, boulevard Letellier",SA,33000,,58.689655172413794,976,France,Zacharie,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,33000,,60.5,977,France,Sébastien,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,69100,,60.5,978,France,Hélène,NA,Villeurbanne
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,13001,,60.5,979,France,Inès,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"181, boulevard Durand",,59000,,60.5,980,France,Auguste,NA,Lille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"6, chemin Gilles Guérin",,59000,,60.5,981,France,Frédéric,NA,Lille
+1966,0.9,Confiance,2,57.927083333333336,M,,,,M.,,,,51100,,57.927083333333336,982,France,Tristan,NA,Reims
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"573, rue Blondel",,66000,,60.5,983,France,Roland,NA,Perpignan
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,83000,,60.5,984,France,Robert,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"6, rue Fournier",SARL,13100,,60.5,985,France,Gilles,NA,Aix-en-Provence
+1979,0.9,Confiance,2,45.01449275362319,M,,,,Mme,,"93, boulevard Weber",S.A.R.L.,34000,,45.01449275362319,986,France,Audrey,NA,Montpellier
+1962,0.9,Confiance,2,62.11224489795919,M,,,,Mme,,rue Leblanc,,83000,,62.11224489795919,987,France,Andrée,NA,Toulon
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,49000,,60.5,988,France,Julien,NA,Angers
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,44000,,60.5,989,France,Sébastien,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"81, rue Becker",,33000,,60.5,990,France,Suzanne,NA,Bordeaux
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"331, chemin de Noël",,13001,,60.5,991,France,Pauline,NA,Marseille
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,S.A.S.,29200,,60.5,992,France,Philippe,NA,Brest
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,13100,,60.5,993,France,Hugues,NA,Aix-en-Provence
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,44000,,60.5,994,France,Théodore,NA,Nantes
+1964,0.9,Confiance,2,60.5,M,,,,M.,,"561, boulevard de Godard",,25000,,60.5,995,France,Guillaume,NA,Besançon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,42000,,60.5,996,France,Dominique,NA,Saint-Étienne
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,,,6000,,60.5,997,France,Frédérique,NA,Nice
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,,37000,,60.5,998,France,Guillaume,NA,Tours
+1964,0.9,Confiance,2,60.5,M,,,,M.,,,SA,21000,,60.5,999,France,Guillaume,NA,Dijon
+1964,0.9,Confiance,2,60.5,M,,,,Mme,,"33, rue Nicolas Blondel",,51100,,60.5,1000,France,Camille,NA,Reims

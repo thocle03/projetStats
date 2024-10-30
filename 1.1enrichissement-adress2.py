@@ -3,8 +3,7 @@ from sqlalchemy import create_engine
 import re
 from unidecode import unidecode
 
-# Connexion à la base de données MySQL
-engine = create_engine("mysql+pymysql://root@localhost:3306/statsdb17")
+engine = create_engine("mysql+pymysql://root@localhost:3306/statsdb18")
 
 def EG_Insee_Iris(
     table_entree,
@@ -26,7 +25,6 @@ def EG_Insee_Iris(
     refCP_df = pd.read_sql_table("refcp", con=engine)
     ref_IRIS_geo2024_df = pd.read_sql_table("ref_iris_geo2024", con=engine)
     
-    # Helper function to normalize column names
     def normalize_column_name(col_name):
         if col_name is None:
             return None
@@ -34,10 +32,8 @@ def EG_Insee_Iris(
         col_name = re.sub(r"[^a-z0-9]", "_", col_name)
         return col_name
 
-    # Prepare DataFrame and handle top_TNP logic
     enriched_df = table_entree.copy()
     if top_TNP == 1:
-        # Split the 'nom' column into gender, first name, and surname
         split_names = enriched_df[nom].str.split(expand=True)
         enriched_df["gender"] = split_names[0]
         enriched_df["prenom"] = split_names[1]
@@ -69,7 +65,6 @@ def EG_Insee_Iris(
         normalize_column_name(col) for col in enriched_df.columns if col is not None
     ]
 
-    # Normalize 'ville' and 'nom_de_la_commune' columns for case-insensitive, accent-free comparison
     enriched_df["ville_normalized"] = enriched_df["ville"].apply(
         lambda x: unidecode(str(x).lower().replace("-", " "))
     )
@@ -77,7 +72,6 @@ def EG_Insee_Iris(
         lambda x: unidecode(str(x).lower().replace("-", " "))
     )
 
-    # Normalize 'lieu_dit' and 'lib_iris' columns for comparison
     enriched_df["lieu_dit_normalized"] = enriched_df["lieu_dit"].apply(
         lambda x: unidecode(str(x).lower().replace("-", " ")) if pd.notna(x) else ""
     )
@@ -85,7 +79,6 @@ def EG_Insee_Iris(
         lambda x: unidecode(str(x).lower().replace("-", " ")) if pd.notna(x) else ""
     )
 
-    # Perform the merge using normalized columns
     enriched_df = enriched_df.merge(
         refCP_df[
             [
@@ -101,12 +94,10 @@ def EG_Insee_Iris(
     )
     enriched_df["c_insee"] = enriched_df["code_commune_insee"]
 
-    # Add leading zero to 'c_insee' if it is 4 characters long
     enriched_df["c_insee"] = enriched_df["c_insee"].apply(
         lambda x: f"0{x}" if pd.notna(x) and len(str(x)) == 4 else x
     )
 
-    # Merge with ref_IRIS_geo2024_df based on 'c_insee' and 'lieu_dit_normalized'
     enriched_df = enriched_df.merge(
         ref_IRIS_geo2024_df[["depcom", "lib_iris", "lib_iris_normalized", "code_iris"]],
         how="left",
@@ -114,10 +105,8 @@ def EG_Insee_Iris(
         right_on=["depcom", "lib_iris_normalized"],
     )
 
-    # Replace missing 'c_iris' values with '0000'
     enriched_df["c_iris"] = enriched_df["code_iris"].str[-4:].fillna("0000")
 
-    # Set 'c_qualite_iris' based on the presence and type of match for 'c_insee' and 'c_iris'
     enriched_df["c_qualite_iris"] = enriched_df.apply(
         lambda row: (
             1
@@ -127,10 +116,8 @@ def EG_Insee_Iris(
         axis=1,
     )
 
-    # Construct the 'codgeo' field
     enriched_df["codgeo"] = enriched_df["c_insee"].fillna("") + enriched_df["c_iris"]
 
-    # Drop unnecessary columns
     enriched_df = enriched_df.drop(
         columns=[
             "depcom",
@@ -145,7 +132,6 @@ def EG_Insee_Iris(
     )
     return enriched_df
 
-# Exemple d'utilisation
 enriched_table = EG_Insee_Iris(
     table_entree=pd.read_sql_table("true_table_entree", con=engine),
     top_TNP=0,
@@ -158,12 +144,10 @@ enriched_table = EG_Insee_Iris(
     prenom="prenom",
 )
 
-# Enregistrer les résultats dans un fichier CSV
 csv_file = "enriched_clients.csv"
 enriched_table.to_csv(csv_file, index=False, encoding="utf-8")
 print(f"Fichier '{csv_file}' généré avec succès.")
 
-# Créer une nouvelle table et insérer les données dans la base de données
 table_name = "enriched_clients"
 enriched_table.to_sql(table_name, con=engine, if_exists='replace', index=False)
-print(f"Table '{table_name}' créée et données insérées avec succès dans la base de données 'statsdb17'.")
+print(f"Table '{table_name}' créée et données insérées avec succès dans la base de données 'statsdb18'.")

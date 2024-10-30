@@ -1,43 +1,19 @@
 import pandas as pd
 from sqlalchemy import create_engine
 
-# Connexion à la base de données
-engine = create_engine("mysql+pymysql://root@localhost:3306/statsdb15")
+engine = create_engine("mysql+pymysql://root@localhost:3306/statsdb18")
 
-def EG_Enrichissement_Geomk(table_initiale, codgeo, var_sexe, var_age):
-    # Charger les tables de référence
-    tb_geo = pd.read_sql_table("tbrefgeo", con=engine)
-    
-    # Merge avec les données géographiques
-    enriched_df = table_initiale.merge(tb_geo, how="left", left_on=codgeo, right_on="codgeo")
-    
-    # Ajout de données socio-démographiques
-    enriched_df["e_PCS"] = "Cadre"  # Catégorie socioprofessionnelle (exemple)
-    enriched_df["c_indice_qualite_pcs"] = 1  # Qualité de l'estimation PCS
-    enriched_df["statut_habitation"] = "Individuelle"  # Statut d'habitation (exemple)
-    enriched_df["nb_enfants"] = 2  # Estimation du nombre d'enfants (exemple)
-    enriched_df["typologie_commune"] = "Urbaine"  # Typologie de la commune (exemple)
-    enriched_df["niveau_revenu"] = "Élevé"  # Niveau de revenu (exemple)
-    enriched_df["decile_revenu"] = 9  # Décile de revenu (exemple)
-    enriched_df["region"] = "Île-de-France"  # Région (exemple)
+enriched_clients = pd.read_sql_table("enriched_clients", con=engine)
 
-    return enriched_df
+maj_reference = pd.read_sql_table("maj_2014_references_maj_2014_references", con=engine)
 
-# Exemple d'utilisation
-table_initiale = pd.read_sql_table("true_table_entree", con=engine)
-enriched_data = EG_Enrichissement_Geomk(
-    table_initiale=table_initiale,
-    codgeo="codgeo",
-    var_sexe="sexe",
-    var_age="age",
-)
+merged_df = pd.merge(enriched_clients, maj_reference, on='codgeo', how='left')
 
-# Enregistrer les résultats dans un fichier CSV
-csv_file = "geomarketing_enriched_data.csv"
-enriched_data.to_csv(csv_file, index=False, encoding="utf-8")
-print(f"Fichier '{csv_file}' généré avec succès.")
+output_file = 'enriched_clients_with_references.csv'
+merged_df.to_csv(output_file, index=False)
 
-# Créer une nouvelle table et insérer les données dans la base de données
-table_name = "geomarketing_enriched_data"
-enriched_data.to_sql(table_name, con=engine, if_exists='replace', index=False)
-print(f"Table '{table_name}' créée et données insérées avec succès dans la base de données 'statsdb15'.")
+new_table_name = 'enriched_clients_with_references'
+
+merged_df.to_sql(new_table_name, con=engine, index=False, if_exists='replace')
+
+print(f"Table '{new_table_name}' créée avec succès dans la base de données.")
